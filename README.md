@@ -1,6 +1,7 @@
 # ATmegaRhTemp-Datalogger
 
 Temperature & Humidity Data logger with two outputs programmed to control any heating or cooling system. 
+
 Main Caracteristics & Hardware:
 - Atmega 2560 microprocessor.
 - Real time clock.
