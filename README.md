@@ -15,6 +15,8 @@ Main Caracteristics & Hardware:
 - Mini SD memory card to store temperature&Humidity records with a recording period that can be configured with the capacity to store up to thousands of records depending on the desired size of the SD card.
 - EventsDownloader application for Windows where the same records can be downloaded. (This is a separate application to download all events to the laptop)
 
+Note: The additional board that constain the RTC + Sensor input and Relay outputs was designed by myself and assembled. 
+
 ![imagem](https://github.com/JoaoPires92/ATmegaRhTemp-Datalogger/assets/165892597/df06d9c4-bd5f-4f19-8b9a-7728c1b639b5)
 ![imagem](https://github.com/JoaoPires92/ATmegaRhTemp-Datalogger/assets/165892597/faabd358-83f7-4437-8a3c-c3d0d6c2d820)
 
