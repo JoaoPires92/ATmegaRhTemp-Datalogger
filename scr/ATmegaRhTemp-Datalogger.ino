@@ -147,18 +147,6 @@
      * 
      */
 
-     /* Preçário
-     * ATmega RHTemp-01: Read Temp+Hum and Display Graphics - 120€
-     * ATmega RHTemp-02: Read Temp+Hum, Display Graphics,SD Event Register 120€ + 50€ Ambi Control Events Downloader and SD card = 170€
-     * ATmega RHTemp-03: Read Temp+Hum, Display Graphics, and Control Temp+Hum - 140€ 
-     * ATmega RHTemp-04: Read Temp+Hum, Display Graphics,Control Temp+Hum and SD card Event Register - 140€ + 50€ Ambi Control Events Downloader and SD card = 190€
-    
-     * ATmega Temp-01: Read water Temp, Dislay Graphics - 120€
-     * ATmega Temp-02: Read Water Temp,Display Graphics, and SD Event Register  - 120€ + 50€ Ambi Control Events Downloader and SD card = 170€
-     * ATmega Temp-03: Read water temp, Display Graphics, and Control Temp - 140€
-     * ATmega Temp-04: Read water temp, Display Graphics,Control Temp, and SD Event Register  - 140€ + 50€ Ambi Control Events Downloader and SD card = 190€
-    */
-
 //*********************Librarias************************* 
 #include <dht.h>
 #include <EEPROM.h>
